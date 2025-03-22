@@ -1,6 +1,6 @@
 <h1 align="center">・‥━━━☆𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝑅𝐸𝒜𝒟𝑀𝐸.𝓂𝒹☆━━━…・</h1>
 
-[![Static Badge: Cravity - C'est La Vie](https://img.shields.io/badge/C'est%20La%20Vie-C'est%20La%20Vie?style=flat&logo=spotify&logoColor=%231ED760&logoSize=auto&label=Cravity&labelColor=grey&color=rgb(51%2C%20204%2C%20255))](https://open.spotify.com/track/5T5HTRyYEyFQgu75jUc1Db?si=983aa855ee4f4e59)
+[![Static Badge: TWS - Fire Confetti](https://img.shields.io/badge/Fire%20Confetti-Fire%20Confetti?style=flat&logo=spotify&logoColor=%231ED760&logoSize=auto&label=TWS&labelColor=grey&color=blue)](https://open.spotify.com/track/5T5HTRyYEyFQgu75jUc1Db?si=983aa855ee4f4e59)
 
 ID | [@beatrix-chan](https://github.com/beatrix-chan/)
 ----: | ----
