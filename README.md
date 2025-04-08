@@ -1,3 +1,29 @@
+# »»————-　𝓦𝓮𝓵𝓬𝓸𝓶𝓮　————-««
+
+> I'm not at the end<br />
+> This is the beginning<br />
+>
+> *— **Last Festival** (**TWS**)*
+
+## About Me
+[![GitHub Badge](https://img.shields.io/badge/GitHub-@beatrix--chan-181717?logo=github)](https://github.com/beatrix-chan) [![Spotify Badge](https://img.shields.io/badge/now_playing-Cheers_to_youth-1ed760?logo=spotify)](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M?si=3bc695579e414c00) <br />
+Beatrix | 07' | ![HKSAR CHINA](https://api.iconify.design/emojione-v1:flag-for-hong-kong-sar-china.svg) ![United Kingdom](https://api.iconify.design/twemoji:flag-united-kingdom.svg) | 繁 (HK/TW)、简、 ENG (HK/CA/UK) | ✝️ <br />
+International Foundation Year | Computer Science BSc (Hons) | Durham University International Study Center<br />
+
+## Skills
+ミ★ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 [![](https://files.catbox.moe/pt4tlt.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)<br />
+<br />
+ミ★ 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘪𝘯𝘨 [![](https://files.catbox.moe/0m1pa5.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
+[![Developing Skills](https://skillicons.dev/icons?i=ruby,js&theme=light)](https://skillicons.dev)<br />
+<br />
+ミ★ 𝘕𝘦𝘹𝘵 𝘵𝘰 𝘋𝘦𝘷𝘦𝘭𝘰𝘱 [![](https://files.catbox.moe/3afmy8.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
+[![Next to Develop Skills](https://skillicons.dev/icons?i=go,java,cpp,c,cs,r&theme=light)](https://skillicons.dev)<br />
+<br />
+ミ★ 𝘖𝘵𝘩𝘦𝘳𝘴 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
+[![Other Skills](https://skillicons.dev/icons?i=md,ps,ai,figma,latex&theme=light)](https://skillicons.dev)<br />
+
+<!-----
 <h1 align="center">・‥━━━☆𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝑅𝐸𝒜𝒟𝑀𝐸.𝓂𝒹☆━━━…・</h1>
 
 [![Static Badge: TWS - Fire Confetti](https://img.shields.io/badge/Fire%20Confetti-Fire%20Confetti?style=flat&logo=spotify&logoColor=%231ED760&logoSize=auto&label=TWS&labelColor=grey&color=blue)](https://open.spotify.com/track/5T5HTRyYEyFQgu75jUc1Db?si=983aa855ee4f4e59)
@@ -20,6 +46,7 @@ Learning | [![Ruby, C, C++, C#, Java, JavaScript, Go, Rust, Swift, PHP, GitHub](
 Curious of | [![Bsd, bun, cloudflare, codepen, coffeescript, gulp, nodejs, pug, pytorch, typescript, yarn](https://skillicons.dev/icons?i=bsd,bun,cloudflare,codepen,coffeescript,gulp,nodejs,pug,pytorch,ts,yarn)](https://skillicons.dev)
 Systems | [![Linux, Ubuntu, Windows, RaspberryPi](https://skillicons.dev/icons?i=linux,ubuntu,windows,raspberrypi)](https://skillicons.dev)
 Environment and Editors | [![Anaconda, Atom, Sublime Text, VSCode](https://skillicons.dev/icons?i=anaconda,atom,sublime,vscode)](https://skillicons.dev)
+----->
 
 <!---
 - 👋 Hi, I’m @beatrix-chan
