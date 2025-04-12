@@ -16,10 +16,10 @@ Beatrix | 零七年出生 | 在英港人![HKSAR CHINA](https://api.iconify.desig
 [![现有技能](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)<br />
 <br />
 ミ★ 正在建立 [![](https://files.catbox.moe/0m1pa5.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
-[![Developing Skills](https://skillicons.dev/icons?i=ruby,js&theme=light)](https://skillicons.dev)<br />
+[![Developing Skills](https://skillicons.dev/icons?i=ruby,js,go&theme=light)](https://skillicons.dev)<br />
 <br />
 ミ★ 之后建立 [![](https://files.catbox.moe/3afmy8.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
-[![Next to Develop Skills](https://skillicons.dev/icons?i=go,java,cpp,c,cs,r&theme=light)](https://skillicons.dev)<br />
+[![Next to Develop Skills](https://skillicons.dev/icons?i=java,cpp,c,cs,r&theme=light)](https://skillicons.dev)<br />
 <br />
 ミ★ 其他已建立 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
 [![Other Skills](https://skillicons.dev/icons?i=md,ps,ai,figma,latex&theme=light)](https://skillicons.dev)<br />
