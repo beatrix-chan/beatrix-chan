@@ -20,7 +20,7 @@ International Foundation Year | Computer Science BSc (Hons) | Durham University 
 ミ★ 𝘕𝘦𝘹𝘵 𝘵𝘰 𝘋𝘦𝘷𝘦𝘭𝘰𝘱 [![](https://files.catbox.moe/3afmy8.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
 [![Next to Develop Skills](https://skillicons.dev/icons?i=java,cpp,c,cs,r&theme=light)](https://skillicons.dev)<br />
 <br />
-ミ★ 𝘖𝘵𝘩𝘦𝘳𝘴 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
+ミ★ 𝘖𝘵𝘩𝘦𝘳𝘴 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
 [![Other Skills](https://skillicons.dev/icons?i=md,ps,ai,figma,latex&theme=light)](https://skillicons.dev)<br />
 
 <!---
