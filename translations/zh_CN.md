@@ -9,7 +9,7 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-@beatrix--chan-181717?logo=github)](https://github.com/beatrix-chan) [![Spotify Badge](https://img.shields.io/badge/正在播放-青春赞歌-1ed760?logo=spotify)](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M?si=3bc695579e414c00) <br />
 
 Beatrix | 零七年出生 | 在英港人![HKSAR CHINA](https://api.iconify.design/emojione-v1:flag-for-hong-kong-sar-china.svg)![United Kingdom](https://api.iconify.design/twemoji:flag-united-kingdom.svg) | 香港/台湾繁体中文、简体中文、香港/加拿大/英国英语 | ✝️ <br />
-国际基础课程 | 计算机科学（荣誉）理科学士学位 | 杜伦大学国际学习中心<br />
+大一 | 计算机科学（荣誉）理科学士学位 | 杜伦大学<br />
 
 ## 技能
 ミ★ 现有 [![](https://files.catbox.moe/pt4tlt.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
