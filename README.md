@@ -8,7 +8,7 @@
 ## About Me
 [![GitHub Badge](https://img.shields.io/badge/GitHub-@beatrix--chan-181717?logo=github)](https://github.com/beatrix-chan) [![Spotify Badge](https://img.shields.io/badge/now_playing-Cheers_to_youth-1ed760?logo=spotify)](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M?si=3bc695579e414c00) <br />
 Beatrix | 07' | ![HKSAR CHINA](https://api.iconify.design/emojione-v1:flag-for-hong-kong-sar-china.svg) ![United Kingdom](https://api.iconify.design/twemoji:flag-united-kingdom.svg) | 繁 (HK/TW)、简、 ENG (HK/CA/UK) | ✝️ <br />
-International Foundation Year | Computer Science BSc (Hons) | Durham University International Study Center<br />
+Year 1 | Computer Science BSc (Hons) | Durham University<br />
 
 ## Skills
 ミ★ 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 [![](https://files.catbox.moe/pt4tlt.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
