@@ -27,7 +27,7 @@ Year 1 | Computer Science BSc (Hons) | Durham University<br />
 
 ## Find Me
 
-[![GitHub](https://skills.syvixor.com/api/icons?i=github)](https://github.com/beatrix-chan) [![Instagram](https://skills.syvixor.com/api/icons?i=instagram)](https://instagram.com/beatrix.chan_0827) [![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://uk.linkedin.com/in/beatrix-chan-52466b31b)
+[![GitHub](https://skills.syvixor.com/api/icons?i=github)](https://github.com/beatrix-chan) [![Instagram](https://skills.syvixor.com/api/icons?i=instagram)](https://instagram.com/beatrix.chan_0827) [![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://uk.linkedin.com/in/beatrix-chan-52466b31b) [![Proton](https://skills.syvixor.com/api/icons?i=protonmail)](mailto:beatrix.chan.dev@proton.me)
 
 <!---
 - 👋 Hi, I’m @beatrix-chan
