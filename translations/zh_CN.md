@@ -17,7 +17,7 @@ Beatrix | 零七年出生 | 在英港人![HKSAR CHINA](https://api.iconify.desig
 [![现有技能](https://skills.syvixor.com/api/icons?i=html,css,python,git)](https://builder.syvixor.com/)<br />
 <br />
 ミ★ 建立中 [![](https://files.catbox.moe/0m1pa5.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
-[![正在建立的技能](https://skills.syvixor.com/api/icons?i=ruby,javascript,typescript,nodejs,reactjs,docker)](https://builder.syvixor.com/)<br />
+[![正在建立的技能](https://skills.syvixor.com/api/icons?i=ruby,javascript,typescript,nodejs,reactjs,reactnative,docker)](https://builder.syvixor.com/)<br />
 <br />
 ミ★ 之后建立 [![](https://files.catbox.moe/3afmy8.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
 [![之后建立的技能](https://skills.syvixor.com/api/icons?i=java,swift,amazonwebservices,c,cpp,csharp,r,golang)](https://builder.syvixor.com/)<br />
