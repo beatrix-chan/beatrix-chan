@@ -23,7 +23,7 @@ Beatrix | 零七年出生 | 在英港人 ![HKSAR CHINA](https://api.iconify.desi
 [![之後建立的技能](https://skills.syvixor.com/api/icons?i=java,swift,amazonwebservices,c,cpp,csharp,r,golang)](https://builder.syvixor.com/)<br />
 <br />
 ミ★ 其他已有 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
-[![其他已有的技能](https://skills.syvixor.com/api/icons?i=markdown,adobephotoshop,adobeillustrator,adobeindesign,figma,latex,anaconda,netlify)](https://builder.syvixor.com/)<br />
+[![其他已有的技能](https://skills.syvixor.com/api/icons?i=markdown,adobephotoshop,adobeillustrator,adobeindesign,figma,latex,anaconda,netlify,framer)](https://builder.syvixor.com/)<br />
 
 ## 找我
 

@@ -23,7 +23,7 @@ Year 1 | Computer Science BSc (Hons) | Durham University<br />
 [![Next to Develop Skills](https://skills.syvixor.com/api/icons?i=java,swift,amazonwebservices,c,cpp,csharp,r,golang)](https://builder.syvixor.com/)<br />
 <br />
 ミ★ 𝘖𝘵𝘩𝘦𝘳𝘴 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 [![](https://files.catbox.moe/rzksqu.gif)](https://rentry.co/dazaisentranceexam) ★彡<br />
-[![Other Skills](https://skills.syvixor.com/api/icons?i=markdown,adobephotoshop,adobeillustrator,adobeindesign,figma,latex,anaconda,netlify)](https://builder.syvixor.com/)<br />
+[![Other Skills](https://skills.syvixor.com/api/icons?i=markdown,adobephotoshop,adobeillustrator,adobeindesign,figma,latex,anaconda,netlify,framer)](https://builder.syvixor.com/)<br />
 
 ## Find Me
 
