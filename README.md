@@ -64,5 +64,5 @@
 ### Support
 
 <p><a href="https://ko-fi.com/beathebacon"><img align="left" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png" height="110" width="210" alt="Support me on Ko-fi" /></a></p><br /><br />
-<br /><br />
-<br /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrix-chan&" alt="beatrix-chan" /></p>
+<br /><br /><br />
+<br /><br /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrix-chan&" alt="beatrix-chan" /></p>
