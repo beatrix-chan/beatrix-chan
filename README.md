@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Beatrix</h1>
-<h3 align="center">I am a Computer Science at Durham University.</h3>
+<h3 align="center">I am a Computer Science Student at Durham University.</h3>
 
 - 🔭 I’m currently working on [Abyssinia Reader](https://github.com/beatrix-chan/abyssinia-reader)
-
 - 🌱 I’m currently learning **TypeScript, React, React Native, and Docker**
-
 - 🤝 I’m looking for help with [VOXATE.io](https://github.com/voxate-io)
-
 - 📫 How to reach me **beatrix.chan.dev@proton.me**
-
 - ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
+- 💖 My favourite project is [Haunted Refactorium](https://github.com/beatrix-chan/haunted-refactorium)
+
+[![Haunted Refactorium Card](https://github-readme-stats.vercel.app/api/pin/?username=beatrix-chan&repo=haunted-refactorium&show_owner=true)](https://github.com/beatrix-chan/haunted-refactorium)
 
 ### Connect with me
 
@@ -31,7 +30,7 @@
 
 #### AI/ML
 
-![PyTorch, Pandas](https://skills.syvixor.com/api/icons?i=pytorch,pandas)
+![PyTorch, Pandas, Numpy, Matlotplib](https://skills.syvixor.com/api/icons?i=pytorch,pandas,numpy,matplotlib)
 
 #### Devops
 
@@ -61,8 +60,12 @@
 
 ![Ubuntu, Jupyter, EndeavourOS, git, Windows](https://skills.syvixor.com/api/icons?i=ubuntu,jupyter,endeavouros,git,windows)
 
+### Statistics
+
+![General Statistics](https://github-readme-stats.vercel.app/api?username=beatrix-chan&theme=catppuccin_latte&include_all_commits=true&count_private=true&show=prs_merged)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrix-chan&theme=catppuccin_latte&include_all_commits=true&count_private=true)
+
 ### Support
 
-<p><a href="https://ko-fi.com/beathebacon"><img align="left" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png" height="110" width="210" alt="Support me on Ko-fi" /></a></p><br /><br />
-<br /><br /><br />
-<br /><br /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrix-chan&" alt="beatrix-chan" /></p>
+<p><a href="https://ko-fi.com/beathebacon"><img align="left" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png" height="110" width="210" alt="Support me on Ko-fi" /></a>
