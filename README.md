@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beatrix</h1>
 <h3 align="center">I am a Computer Science Student at Durham University.</h3>
 
-- 🔭 I’m currently working on [Abyssinia Reader](https://github.com/beatrix-chan/abyssinia-reader)
+- 🔭 I’m currently working on [Christmas Tree](https://codepen.io/beathebacon/pen/KwzOmQV)
 - 🌱 I’m currently learning **TypeScript, React, React Native, and Docker**
 - 🤝 I’m looking for help with [VOXATE.io](https://github.com/voxate-io)
 - 📫 How to reach me **beatrix.chan.dev@proton.me**
