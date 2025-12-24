@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
 - 💖 My favourite project is [Haunted Refactorium](https://github.com/beatrix-chan/haunted-refactorium)
 
-[![GitHub Card for Haunted Refactorium](https://githubcard.com/beatrix-chan/haunted-refactorium.svg?d=LuvEx_KL)](https://github.com/beatrix-chan/haunted-refactorium)
+[![GitHub Card for Haunted Refactorium](https://githubcard.com/beatrix-chan/haunted-refactorium.svg?d=lmbSiFio)](https://github.com/beatrix-chan/haunted-refactorium)
 
 ### Connect with me
 
