@@ -62,7 +62,7 @@
 
 ### Statistics
 
-![GitHub Card](https://githubcard.com/beatrix-chan.svg)
+
 
 ### Support
 
