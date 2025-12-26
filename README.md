@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beatrix</h1>
 <h3 align="center">I am a Computer Science Student at Durham University.</h3>
 
-- 🔭 I’m currently working on [Christmas Tree](https://codepen.io/beathebacon/pen/KwzOmQV)
+- 🔭 I’m currently working on [Email Encoder](https://github.com/beatrix-chan/email-encoder)
 - 🌱 I’m currently learning **TypeScript, React, React Native, and Docker**
-- 🤝 I’m looking for help with [VOXATE.io](https://github.com/voxate-io)
+- 🤝 I’m looking for help with [Abyssinia Reader](https://github.com/beatrix-chan/abyssinia-reader)
 - 📫 How to reach me **beatrix.chan.dev@proton.me**
 - ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
 - 💖 My favourite project is [Haunted Refactorium](https://github.com/beatrix-chan/haunted-refactorium)
