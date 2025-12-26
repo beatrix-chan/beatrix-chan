@@ -62,7 +62,7 @@
 
 ### Statistics
 
-
+![GitHub Card](https://github.com/user-attachments/assets/a12a074c-30eb-4443-a896-22fa2f406b56)
 
 ### Support
 
