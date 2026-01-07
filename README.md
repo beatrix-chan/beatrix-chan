@@ -54,7 +54,7 @@
 
 #### Deployment
 
-![Netlify, GitHub Pages](https://skills.syvixor.com/api/icons?i=netlify,githubpages) [![Railway: Use my link to get $20 credits upon sign up!](https://skills.syvixor.com/api/icons?i=railway)](https://railway.com?referralCode=beatrix-chan)
+![Netlify, GitHub Pages, Render](https://skills.syvixor.com/api/icons?i=netlify,githubpages,render) [![Railway: Use my link to get $20 credits upon sign up!](https://skills.syvixor.com/api/icons?i=railway)](https://railway.com?referralCode=beatrix-chan)
 
 #### Other
 
