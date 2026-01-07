@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science Student at Durham University.</h3>
 
 - 🔭 I’m currently working on [Email Encoder](https://github.com/beatrix-chan/email-encoder)
-- 🌱 I’m currently learning **TypeScript, React, React Native, and Docker**
+- 🌱 I’m currently learning **Kotlin, TypeScript, and Docker**
 - 🤝 I’m looking for help with [Abyssinia Reader](https://github.com/beatrix-chan/abyssinia-reader)
 - 📫 How to reach me **beatrix.chan.dev@proton.me**
 - ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
