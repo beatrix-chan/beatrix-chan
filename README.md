@@ -8,8 +8,6 @@
 - ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
 - 💖 My favourite project is [Haunted Refactorium](https://github.com/beatrix-chan/haunted-refactorium)
 
-[![GitHub Card for Haunted Refactorium](https://githubcard.com/beatrix-chan/haunted-refactorium.svg?d=lmbSiFio)](https://github.com/beatrix-chan/haunted-refactorium)
-
 ### Connect with me
 
 [![Codepen: @beathebacon](https://skills.syvixor.com/api/icons?i=codepen)](https://codepen.io/beathebacon/) [![LinkedIn: chan-beatrix](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/chan-beatrix/) [![Instagram: @beathebacon](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/beathebacon) [![Youtube: @beathebacon](https://skills.syvixor.com/api/icons?i=youtube)](https://www.youtube.com/@beathebacon) [![Leetcode: @beatrix-chan](https://skills.syvixor.com/api/icons?i=leetcode)](https://www.leetcode.com/beatrix-chan) [![BlueSky: @beathebacon.bsky.social](https://skills.syvixor.com/api/icons?i=bluesky)](https://bsky.app/profile/beathebacon.bsky.social)
