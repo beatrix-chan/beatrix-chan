@@ -61,7 +61,3 @@
 ### Statistics
 
 ![GitHub Card](https://githubcard.com/beatrix-chan.svg?d=TpCfq01H)
-
-### Support
-
-<p><a href="https://ko-fi.com/beathebacon"><img align="left" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_beige.png" height="110" width="210" alt="Support me on Ko-fi" /></a>
