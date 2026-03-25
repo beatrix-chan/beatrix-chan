@@ -2,15 +2,13 @@
 <h3 align="center">I am a Computer Science Student at Durham University.</h3>
 
 - 🔭 I’m currently working on [Email Encoder](https://github.com/beatrix-chan/email-encoder)
-- 🌱 I’m currently learning **Kotlin, and Docker**
-- 🤝 I’m looking for help with [Abyssinia Reader](https://github.com/beatrix-chan/abyssinia-reader)
+- 🌱 I’m currently learning **[Kotlin](https://kotlinlang.org/), [React](https://react.dev/), [React Native](https://reactnative.dev/), and [Docker](https://www.docker.com/)**
 - 📫 How to reach me **beatrix.chan.dev@proton.me**
-- ⚡ Fun fact **I was born in Hong Kong and studied in Calagry (Alberta, Canada) for high school before coming to the UK**
 - 💖 My favourite project is [SideKick](https://github.com/Bapp1212/sidekick)
 
 ## Connect with me
 
-[![LinkedIn: chan-beatrix](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/chan-beatrix/) [![Instagram: @beathebacon](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/beathebacon) [![Youtube: @beathebacon](https://skills.syvixor.com/api/icons?i=youtube)](https://www.youtube.com/@beathebacon) [![BlueSky: @beathebacon.bsky.social](https://skills.syvixor.com/api/icons?i=bluesky)](https://bsky.app/profile/beathebacon.bsky.social)
+[![LinkedIn: chan-beatrix](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/chan-beatrix/) [![Instagram: @beathebacon](https://skills.syvixor.com/api/icons?i=instagram)](https://www.instagram.com/beathebacon) [![Youtube: @beathebacon](https://skills.syvixor.com/api/icons?i=youtube)](https://www.youtube.com/@beathebacon) [![BlueSky: @beathebacon.bsky.social](https://skills.syvixor.com/api/icons?i=bluesky)](https://bsky.app/profile/beathebacon.bsky.social) [![Codewars](https://skills.syvixor.com/api/icons?i=codewars)](https://www.codewars.com/r/TuuHiQ)
 
 ## Languages and Tools
 
@@ -25,12 +23,17 @@
 [![NodeJS](https://skills.syvixor.com/api/icons?i=node)](https://nodejs.org/en)
 [![TypeScript](https://skills.syvixor.com/api/icons?i=ts)](https://www.typescriptlang.org/)
 [![Express](https://skills.syvixor.com/api/icons?i=express)](https://expressjs.com/)
+[![Vite](https://skills.syvixor.com/api/icons?i=vite)](https://vite.dev/)
 [![Python](https://skills.syvixor.com/api/icons?i=python)](https://www.python.org/)
 
 [![Visual Studio Code](https://skills.syvixor.com/api/icons?i=vscode)](https://code.visualstudio.com/)
 [![JetBrains WebStorm](https://skills.syvixor.com/api/icons?i=webstorm)](https://www.jetbrains.com/webstorm/)
 [![JetBrains RubyMine](https://skills.syvixor.com/api/icons?i=rubymine)](https://www.jetbrains.com/ruby/)
 [![JetBrains PyCharm](https://skills.syvixor.com/api/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
+[![Cursor](https://skills.syvixor.com/api/icons?i=cursor)](https://cursor.com/)
+[![Kiro](https://skills.syvixor.com/api/icons?i=kiro)](https://kiro.dev/)
+[![VSCodium](https://skills.syvixor.com/api/icons?i=vscodium)](https://vscodium.com/)
+
 [![Adobe Express](https://skills.syvixor.com/api/icons?i=adobeexpress)](https://www.adobe.com/express/)
 [![Adobe Photoshop](https://skills.syvixor.com/api/icons?i=adobephotoshop)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://skills.syvixor.com/api/icons?i=adobeillustrator)](https://www.adobe.com/products/illustrator.html)
@@ -53,6 +56,12 @@
 [![Git](https://skills.syvixor.com/api/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skills.syvixor.com/api/icons?i=github)](https://github.com)
 [![Codeberg](https://skills.syvixor.com/api/icons?i=codeberg)](https://codeberg.org/)
+
+[![GitHub Copilot](https://skills.syvixor.com/api/icons?i=githubcopilot)](https://github.com/features/copilot)
+[![Ollama](https://skills.syvixor.com/api/icons?i=ollama)](https://ollama.com/)
+[![OpenWebUI](https://skills.syvixor.com/api/icons?i=openwebui)](https://openwebui.com/)
+[![Cline](https://skills.syvixor.com/api/icons?i=cline)](https://cline.bot/)
+[![Warp](https://skills.syvixor.com/api/icons?i=warp)](https://www.warp.dev/)
 
 ### Statistics
 
