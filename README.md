@@ -43,6 +43,7 @@
 [![Inkscape](https://skills.syvixor.com/api/icons?i=inkscape)](https://inkscape.org/)
 [![Graphite](https://skills.syvixor.com/api/icons?i=graphite)](https://graphite.art/)
 [![GIMP](https://skills.syvixor.com/api/icons?i=gimp)](https://www.gimp.org/)
+[![Affinity](https://skills.syvixor.com/api/icons?i=affinity)](https://www.affinity.studio/)
 
 [![VitePress](https://skills.syvixor.com/api/icons?i=vitepress)](https://vitepress.dev/)
 [![Material for MkDocs](https://skills.syvixor.com/api/icons?i=materialformkdocs)](https://squidfunk.github.io/mkdocs-material/)
